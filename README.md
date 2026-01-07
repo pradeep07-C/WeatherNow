@@ -1,4 +1,4 @@
-# WeatherHub - React Weather Dashboard
+# WeatherNow - React Weather Dashboard
 
 A feature-rich weather dashboard application built with React that demonstrates proper state management, API integration, and React hooks implementation.
 
